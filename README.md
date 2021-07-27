@@ -1,6 +1,6 @@
-# Web-Maribu-Village
+# Website Moy Village
 
-Made with Vue JS (Front-end) and Django (Backend)
+Made with Flutter (Frontend & Android) and Django (Backend)
 
 * Build by Knip Nak
 
